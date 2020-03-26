@@ -1,0 +1,9 @@
+.link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  margin: 0 0 0.5rem;
+  background-color: var(--linkBgColor);
+}
