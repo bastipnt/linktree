@@ -1,4 +1,10 @@
-.svg {
-  fill: var(--linkColor);
-  margin-right: 1rem;
+.linktree {
+  h2 {
+    text-align: center;
+  }
+
+  .svg {
+    fill: var(--linkColor);
+    margin-right: 1rem;
+  }
 }
