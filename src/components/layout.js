@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 
 const Layout = ({ children }) => {
   return (
-    <div class="layout">
+    <div className="layout">
       <main>{children}</main>
       <footer>© {new Date().getFullYear()}, Basti Paintner</footer>
     </div>
