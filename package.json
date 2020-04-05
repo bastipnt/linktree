@@ -12,6 +12,7 @@
     "gatsby-plugin-manifest": "^2.3.3",
     "gatsby-plugin-mdx": "^1.1.3",
     "gatsby-plugin-offline": "^3.0.41",
+    "gatsby-plugin-owa": "^1.1.1",
     "gatsby-plugin-react-helmet": "^3.1.24",
     "gatsby-plugin-react-svg": "^3.0.0",
     "gatsby-plugin-sass": "^2.2.1",

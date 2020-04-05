@@ -44,5 +44,12 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: `gatsby-plugin-owa`,
+      options: {
+        siteId: "b9dc8e3311dee27d01acde3118a4eccf",
+        owaUrl: "https://litcode.uber.space/",
+      },
+    },
   ],
 }
