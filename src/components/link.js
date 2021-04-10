@@ -1,9 +1,9 @@
 import PropTypes from "prop-types"
 import React from "react"
-import "./link.scss"
+import * as linkStyles from "./link.module.scss"
 
 const Link = ({ children, to }) => (
-  <a className="link" href={to}>
+  <a className={linkStyles.link} href={to}>
     {children}
   </a>
 )
