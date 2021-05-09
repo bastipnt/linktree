@@ -1,0 +1,11 @@
+stackbitVersion: ~0.3.0
+ssgName: gatsby
+nodeVersion: '12'
+publishDir: public
+pagesDir: src/pages
+models:
+  page:
+    type: page
+    label: Page
+    match: '*'
+    fields: []
