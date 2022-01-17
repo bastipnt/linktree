@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: "/linktree",
   siteMetadata: {
     title: `Hi, this is my personal linktree.`,
     description: `Here you can find the links that are most important to me at the moment.`,
